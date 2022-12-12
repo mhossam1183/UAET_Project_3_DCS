@@ -1,5 +1,0 @@
-"Automotive door control system design" Project:
-----------------------
-1. Descriptn of APIs extended in the static design.
-
-2. ECU_1 & ECU_2 state machine diagrams updated.

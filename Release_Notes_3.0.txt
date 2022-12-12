@@ -1,0 +1,11 @@
+"Automotive door control system design" Project:
+----------------------
+
+1. Regarding the requirement "You should draw the state machine for each (ECU1 & ECU2) component",
+   The state machine diagrams for all SW components are in the 2 folders "ECU_1_Components_State_Diagrams" & "ECU_2_Components_State_Diagrams".
+   
+   What exactly is meant by "ECU Component" ?
+   
+   such as the "BCM" and "CAN_If" SW component etc. ?
+   
+   or what is meant are the HW components such as "light switch" and "Buzzer" etc. ?
