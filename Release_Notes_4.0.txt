@@ -1,0 +1,5 @@
+"Automotive door control system design" Project:
+----------------------
+
+1. Regarding the requirement "You should draw the state machine for each (ECU1 & ECU2) component",
+   The state machine diagrams for all HW components are in the "HW_Components_State_Diagrams" folder.
